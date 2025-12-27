@@ -1,2 +1,2 @@
-# Wanderlustu_project
+# Wanderlust_project
 Wanderlust is a listing web application develeped in MERN stack
